@@ -1,0 +1,15 @@
+{
+    "name": "roman/test-3",
+    "autoload": {
+        "psr-4": {
+            "Roman\\Test3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman Grynykha",
+            "email": "roman.grynykha@p2h.com"
+        }
+    ],
+    "require": {}
+}
